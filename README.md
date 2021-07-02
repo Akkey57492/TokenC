@@ -1,0 +1,2 @@
+# TokenC
+DiscordのTokenをチェックするPythonツール
